@@ -7,10 +7,10 @@ import sys
 
 
 #consumer key, consumer secret, access token, access secret.
-ckey="dq8xpP2rogJOGWgq7dvFsUl0e"
-csecret="5F7Cl7F1EVmJTNyc42elidOpbjWczGt9xsPszGO2AyobORvrrk"
-atoken="2578033484-9aQGb7Z5BwTLwiYclI0qOTGABHGVrumu1dN6Ahe"
-asecret="OiCSDGDyX3MXjSTTFVWa2zcxpiiO8T3q64m7lAAriLkny"
+ckey="*******"
+csecret="*****"
+atoken="*****"
+asecret="******"
 
 class listener(StreamListener):
 
